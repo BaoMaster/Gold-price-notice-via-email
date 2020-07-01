@@ -1,0 +1,28 @@
+c:\users\anh\documents\visual studio 2013\Projects\HTTPClientExample\HTTPClientExample\bin\Debug\HTTPClientExample.exe.config
+c:\users\anh\documents\visual studio 2013\Projects\HTTPClientExample\HTTPClientExample\bin\Debug\HTTPClientExample.exe
+c:\users\anh\documents\visual studio 2013\Projects\HTTPClientExample\HTTPClientExample\bin\Debug\HTTPClientExample.pdb
+c:\users\anh\documents\visual studio 2013\Projects\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.csprojResolveAssemblyReference.cache
+c:\users\anh\documents\visual studio 2013\Projects\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.Form1.resources
+c:\users\anh\documents\visual studio 2013\Projects\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.Properties.Resources.resources
+c:\users\anh\documents\visual studio 2013\Projects\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.csproj.GenerateResource.Cache
+c:\users\anh\documents\visual studio 2013\Projects\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.exe
+c:\users\anh\documents\visual studio 2013\Projects\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.pdb
+G:\Lap trinh mang -v2\Demo\HTTPClientExample\HTTPClientExample\bin\Debug\HTTPClientExample.exe.config
+G:\Lap trinh mang -v2\Demo\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.exe
+G:\Lap trinh mang -v2\Demo\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.pdb
+G:\Lap trinh mang -v2\Demo\HTTPClientExample\HTTPClientExample\bin\Debug\HTTPClientExample.exe
+G:\Lap trinh mang -v2\Demo\HTTPClientExample\HTTPClientExample\bin\Debug\HTTPClientExample.pdb
+G:\Lap trinh mang -v2\Demo\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.csprojResolveAssemblyReference.cache
+G:\Lap trinh mang -v2\Demo\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.Form1.resources
+G:\Lap trinh mang -v2\Demo\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.Properties.Resources.resources
+G:\Lap trinh mang -v2\Demo\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\HTTPClientExample\HTTPClientExample\bin\Debug\HTTPClientExample.exe.config
+C:\Users\DELL\Downloads\HTTPClientExample\HTTPClientExample\bin\Debug\HTTPClientExample.exe
+C:\Users\DELL\Downloads\HTTPClientExample\HTTPClientExample\bin\Debug\HTTPClientExample.pdb
+C:\Users\DELL\Downloads\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.Form1.resources
+C:\Users\DELL\Downloads\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.Properties.Resources.resources
+C:\Users\DELL\Downloads\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.exe
+C:\Users\DELL\Downloads\HTTPClientExample\HTTPClientExample\obj\Debug\HTTPClientExample.pdb
